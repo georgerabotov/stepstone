@@ -1,6 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Stepstone.Api.Core;
+using Stepstone.Api.Models;
 using Stepstone.Api.Requests;
 using Stepstone.Api.Requests.Responses;
 using Stepstone.Domain;
@@ -60,9 +61,9 @@ namespace Stepstone.Api.Controllers
         }
 
         [HttpPost("{guid}")]
-        public async Task<IActionResult> AnswerQuestion(string guid, string answer)
+        public async Task<IActionResult> AnswerQuestion(string guid, [FromBody] AnswerQuestionModel answer)
         {
-            return await Ok(new AnswerQuestionRequest(guid, answer));
+            return await Ok(new AnswerQuestionRequest(guid, answer.Answer));
         }
     }
 }

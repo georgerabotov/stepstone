@@ -76,6 +76,12 @@ Submits an answer to a question.
 - **Success Response:**
   - **Code:** 200 OK
   - **Content:** Acknowledgment of answer submission
+- Here you can find the correct answer to the first question. You will just need to grab the Id from the `/api/questions/advanced` endpoint.
+```
+    {
+        "answer": "Havana"
+    }
+```
 
 #### Assumptions
 1. As mentioned, I simply mocked the data.
