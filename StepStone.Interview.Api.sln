@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9AA50ADD-F10F-444C-AD73-A823A579C292}"
+	ProjectSection(SolutionItems) = preProject
+		src\Stepstone.Api\Dockerfile = src\Stepstone.Api\Dockerfile
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2621DC06-53EF-4D8F-B8E7-41C6895C5708}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stepstone.Api", "src\Stepstone.Api\Stepstone.Api.csproj", "{1D9F474E-38B6-48BD-9CEF-978B060FE191}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stepstone.Domain", "src\Stepstone.Domain\Stepstone.Domain.csproj", "{FC3A9079-FBA0-4A8D-9A20-10E02678846D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stepstone.Persistence", "src\Stepstone.Persistence\Stepstone.Persistence.csproj", "{801341EA-0F3E-4259-97CC-55AED374EBC7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FC3A9079-FBA0-4A8D-9A20-10E02678846D} = {FC3A9079-FBA0-4A8D-9A20-10E02678846D}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stepstone.DataMock", "src\Stepstone.DataMock\Stepstone.DataMock.csproj", "{D82569DD-7C10-49B8-ABA4-9CAE700EE2F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stepstone.UnitTests", "test\Stepstone.UnitTests\Stepstone.UnitTests.csproj", "{E875D3F9-35D2-4063-8A6B-82656D441A5F}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8AEC0983-4D33-4846-9B7C-B36A5174F127}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C2AB11E-24F3-4A81-8749-FB0D5C28E6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9F474E-38B6-48BD-9CEF-978B060FE191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9F474E-38B6-48BD-9CEF-978B060FE191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9F474E-38B6-48BD-9CEF-978B060FE191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9F474E-38B6-48BD-9CEF-978B060FE191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3A9079-FBA0-4A8D-9A20-10E02678846D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3A9079-FBA0-4A8D-9A20-10E02678846D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3A9079-FBA0-4A8D-9A20-10E02678846D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3A9079-FBA0-4A8D-9A20-10E02678846D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801341EA-0F3E-4259-97CC-55AED374EBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801341EA-0F3E-4259-97CC-55AED374EBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801341EA-0F3E-4259-97CC-55AED374EBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801341EA-0F3E-4259-97CC-55AED374EBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82569DD-7C10-49B8-ABA4-9CAE700EE2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82569DD-7C10-49B8-ABA4-9CAE700EE2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82569DD-7C10-49B8-ABA4-9CAE700EE2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82569DD-7C10-49B8-ABA4-9CAE700EE2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E875D3F9-35D2-4063-8A6B-82656D441A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E875D3F9-35D2-4063-8A6B-82656D441A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E875D3F9-35D2-4063-8A6B-82656D441A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E875D3F9-35D2-4063-8A6B-82656D441A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEC0983-4D33-4846-9B7C-B36A5174F127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEC0983-4D33-4846-9B7C-B36A5174F127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEC0983-4D33-4846-9B7C-B36A5174F127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEC0983-4D33-4846-9B7C-B36A5174F127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D9F474E-38B6-48BD-9CEF-978B060FE191} = {9AA50ADD-F10F-444C-AD73-A823A579C292}
+		{FC3A9079-FBA0-4A8D-9A20-10E02678846D} = {9AA50ADD-F10F-444C-AD73-A823A579C292}
+		{801341EA-0F3E-4259-97CC-55AED374EBC7} = {9AA50ADD-F10F-444C-AD73-A823A579C292}
+		{D82569DD-7C10-49B8-ABA4-9CAE700EE2F2} = {9AA50ADD-F10F-444C-AD73-A823A579C292}
+		{E875D3F9-35D2-4063-8A6B-82656D441A5F} = {2621DC06-53EF-4D8F-B8E7-41C6895C5708}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84917DD4-CC5B-428C-B0C3-1D9EB95D2590}
+	EndGlobalSection
+EndGlobal

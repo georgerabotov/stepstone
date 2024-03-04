@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\bin\Debug\net7.0\Stepstone.DataMock.deps.json
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\bin\Debug\net7.0\Stepstone.DataMock.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\bin\Debug\net7.0\Stepstone.DataMock.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\bin\Debug\net7.0\Stepstone.Domain.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\bin\Debug\net7.0\Stepstone.Domain.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.AssemblyInfo.cs
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.csproj.CopyComplete
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\refint\Stepstone.DataMock.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\Stepstone.DataMock.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.DataMock\obj\Debug\net7.0\ref\Stepstone.DataMock.dll

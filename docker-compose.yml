@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  stepstone.api:
+    image: ${DOCKER_REGISTRY-}stepstoneapi
+    build:
+      context: .
+      dockerfile: src/Stepstone.Api/Dockerfile
+    ports:
+    - "5000:5000"
+    - "5001:5001"

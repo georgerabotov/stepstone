@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\bin\Release\net7.0\Stepstone.Persistence.deps.json
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\bin\Release\net7.0\Stepstone.Persistence.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\bin\Release\net7.0\Stepstone.Persistence.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\bin\Release\net7.0\Stepstone.Domain.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\bin\Release\net7.0\Stepstone.Domain.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.AssemblyInfo.cs
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.csproj.CopyComplete
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\refint\Stepstone.Persistence.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\Stepstone.Persistence.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Persistence\obj\Release\net7.0\ref\Stepstone.Persistence.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N1rglaSBaY3eYcTyuGLAQBFz9+mIQXG2EGQfUbLPpxw=",
+  "Source": "Stepstone.Api",
+  "BasePath": "_content/Stepstone.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

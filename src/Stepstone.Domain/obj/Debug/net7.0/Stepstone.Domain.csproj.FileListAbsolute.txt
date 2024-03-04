@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\bin\Debug\net7.0\Stepstone.Domain.deps.json
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\bin\Debug\net7.0\Stepstone.Domain.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\bin\Debug\net7.0\Stepstone.Domain.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\Stepstone.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\Stepstone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\Stepstone.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\Stepstone.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\Stepstone.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\Stepstone.Domain.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\refint\Stepstone.Domain.dll
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\Stepstone.Domain.pdb
+C:\Users\User\source\repos\StepStone.Interview.Api\src\Stepstone.Domain\obj\Debug\net7.0\ref\Stepstone.Domain.dll
